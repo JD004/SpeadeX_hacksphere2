@@ -7,7 +7,7 @@ Arova is an **intelligent, voice-driven medical assistant** designed to provide 
 
 ## 🚀 **Why Arova?**  
 ✅ **100% Voice-Based** – Speak, don’t type. Get seamless AI-driven consultations.  
-✅ **Smart Symptom Analysis** – Uses **LLMs & medical databases** for **personalized** suggestions.  
+✅ **Smart Symptom Analysis** – Uses **RAG LLMs & medical databases** for **personalized** suggestions.  
 ✅ **Safe Medication Advice** – AI-backed **OTC recommendations** for non-critical cases.  
 ✅ **Universal & Accessible** – Supports **multiple languages** & caters to remote, elderly, and disabled users.  
 ✅ **Continuously Learning** – Adapts to new **medical research** for better accuracy.  
