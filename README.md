@@ -33,6 +33,19 @@ Arova is an **intelligent, voice-driven medical assistant** designed to provide 
 
 ---
 
+## 👩‍🎓 **RAG-Based Chatbot & Medical Information Retrieval**  
+### **Enhancing Accuracy with Retrieval-Augmented Generation (RAG)**  
+Arova integrates **Semantic Chunking and Finetuned LLM Adaptation** to provide **accurate and context-aware medical responses** while mitigating LLM hallucinations.  
+
+### **Key RAG Features:**  
+🔹 **Localized Setup** – The entire system runs **locally on the CPU**, ensuring **data privacy**.  
+🔹 **Qdrant Vector Database** – Uses **Qdrant (Docker-based)** to store medical document chunks.  
+🔹 **Semantic Chunking** – Extracts **meaningful document chunks** for more efficient retrieval.  
+🔹 **Finetuned Medical LLM** – Utilizes **BioMistral-7B**, a **MEDICAL DOMAIN** fine-tuned model.  
+🔹 **Word Embeddings** – Implements **Pubmed-BERT** for high-precision word representation.  
+
+---
+
 ## 🌍 **Arova’s Impact**  
 🔥 **Bridging the Healthcare Divide** – Brings expert insights to **rural & underserved communities**.  
 ⚡ **Reducing Unnecessary Doctor Visits** – AI **filters non-emergency cases**, saving time & money.  
@@ -51,3 +64,4 @@ Arova is an **intelligent, voice-driven medical assistant** designed to provide 
 👤 **Team Lead:** Jaitashree Digamber  
 👥 **Team Name:** SpeadeX  
 👤 **Member:** Baibhav Pathy  
+
