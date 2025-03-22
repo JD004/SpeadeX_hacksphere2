@@ -1,44 +1,53 @@
-# 🏥 ChatDoc – AI Powered Voice-Driven Medical Assistant  
+# ⚕️ **Arova – Your AI-Powered Voice Doctor**  
 
-## 📌 Overview  
-Access to timely healthcare is a challenge, especially for remote and underserved populations. Traditional telemedicine relies on text input, which can be inconvenient for users with low literacy or disabilities.  
+### 🏥 **Bridging Healthcare Gaps with AI & Voice**  
+Arova is an **intelligent, voice-driven medical assistant** designed to provide **instant, AI-powered symptom analysis and guidance**. Inspired by ancient Ayurvedic wisdom and modern AI, Arova helps users describe symptoms naturally and receive **trusted, real-time medical insights**—no typing, no hassle.  
 
-**ChatDoc** is an **AI-powered Speech-to-Speech (STS) assistant** that allows users to **speak naturally** about their symptoms and receive **real-time medical insights**. By leveraging advanced speech recognition, large language models, and verified medical databases, ChatDoc provides safe and intelligent healthcare guidance.  
+---
 
-## 🎯 Key Features  
-✅ **100% Voice-Driven:** No typing, just natural conversation.  
-✅ **AI-Powered Symptom Analysis:** Uses advanced LLM reasoning for precise recommendations.  
-✅ **Smart Medication Advice:** Suggests safe OTC medications and flags urgent cases.  
-✅ **Universal Accessibility:** Supports multiple languages for global reach.  
-✅ **Continuously Learning:** Improves over time with new medical research.  
+## 🚀 **Why Arova?**  
+✅ **100% Voice-Based** – Speak, don’t type. Get seamless AI-driven consultations.  
+✅ **Smart Symptom Analysis** – Uses **LLMs & medical databases** for **personalized** suggestions.  
+✅ **Safe Medication Advice** – AI-backed **OTC recommendations** for non-critical cases.  
+✅ **Universal & Accessible** – Supports **multiple languages** & caters to remote, elderly, and disabled users.  
+✅ **Continuously Learning** – Adapts to new **medical research** for better accuracy.  
 
-## 💡 How It Works  
-1. **User Speaks Symptoms** → ChatDoc captures and transcribes input.  
-2. **Symptom Processing** → LLM analyzes symptoms and determines urgency.  
-3. **Medical Recommendations** → ChatDoc suggests OTC medication or doctor consultation.  
-4. **Voice Response** → TTS delivers spoken guidance.  
-5. **Follow-Up Queries** → Users can ask for clarifications.  
+---
 
-## 🛠️ Tech Stack  
-- **Speech Recognition:** OpenAI Whisper for accurate voice input.  
-- **LLM Processing:** LLaMA 3 70B fine-tuned for medical analysis.  
-- **Text-to-Speech (TTS):** VITS Model for natural voice responses.  
-- **Backend & API:** Python (Flask) for seamless processing.  
-- **Frontend:** React.js, Next.js for an intuitive user interface.  
-- **Medical Knowledge Base:** PubMed, WHO guidelines, DrugBank API for verified recommendations.  
+## 💡 **How Arova Works**  
+1️⃣ **User Speaks Symptoms** → Arova captures & transcribes voice input.  
+2️⃣ **AI-Powered Symptom Analysis** → LLM assesses urgency & suggests conditions.  
+3️⃣ **Smart Medical Recommendations** → Safe **OTC medicines or doctor referrals**.  
+4️⃣ **Voice-Based Response** → AI speaks back with insights.  
+5️⃣ **Interactive Follow-Ups** → Users can ask follow-up questions.  
 
-## 🚀 Why ChatDoc is a Game-Changer  
-- **Bridges Healthcare Gaps:** Expands access for elderly, rural, and disabled users.  
-- **Reduces Unnecessary Doctor Visits:** AI-guided self-care prevents overcrowding.  
-- **Enhances Patient Outcomes:** Faster preliminary diagnosis and guidance.  
-- **Supports Sustainability:** Minimizes carbon footprint by reducing travel for consultations.  
+---
 
-## 📚 Research & References  
+## 🛠️ **Tech Behind Arova**  
+🔹 **Speech Recognition** – OpenAI **Whisper AI** for precise voice input.  
+🔹 **LLM Processing** – Fine-tuned **LLaMA 3 70B** for medical reasoning.  
+🔹 **Text-to-Speech (TTS)** – **VITS Model** for natural AI-driven voice replies.  
+🔹 **Backend & API** – **Python (Flask)** for smooth AI processing.  
+🔹 **Frontend** – **React.js + Next.js** for a sleek, user-friendly interface.  
+🔹 **Medical Knowledge Base** – Data from **PubMed, WHO guidelines, DrugBank API**.  
+
+---
+
+## 🌍 **Arova’s Impact**  
+🔥 **Bridging the Healthcare Divide** – Brings expert insights to **rural & underserved communities**.  
+⚡ **Reducing Unnecessary Doctor Visits** – AI **filters non-emergency cases**, saving time & money.  
+🌿 **Sustainable & Efficient** – Less hospital crowding, **lower medical costs**, and **eco-friendly telemedicine**.  
+
+---
+
+## 📚 **Research & References**  
 🔗 [AI in Healthcare](https://www.nature.com/articles/s41746-021-00427-4)  
 🔗 [Whisper AI Speech Recognition](https://openai.com/research/whisper)  
 🔗 [Telemedicine & Sustainability](https://www.mdpi.com/1660-4601/18/19/10280)  
 
-## 🤝 Contributors  
+---
+
+## 🤝 **Meet the Minds Behind Arova**  
 👤 **Team Lead:** Jaitashree Digamber  
 👥 **Team Name:** SpeadeX  
 👤 **Member:** Baibhav Pathy  
