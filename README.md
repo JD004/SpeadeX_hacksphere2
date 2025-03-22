@@ -25,8 +25,8 @@ Arova is an **intelligent, voice-driven medical assistant** designed to provide 
 
 ## 🛠️ **Tech Behind Arova**  
 🔹 **Speech Recognition** – OpenAI **Whisper AI** for precise voice input.  
-🔹 **LLM Processing** – Fine-tuned **LLaMA 3 70B** for medical reasoning.  
-🔹 **Text-to-Speech (TTS)** – **VITS Model** for natural AI-driven voice replies.  
+🔹 **LLM Processing** – Fine-tuned RAG Model **BioMistral-7B** for medical reasoning.  
+🔹 **Text-to-Speech (TTS)** – **Fast Pitch** for natural AI-driven voice replies.  
 🔹 **Backend & API** – **Python (Flask)** for smooth AI processing.  
 🔹 **Frontend** – **React.js + Next.js** for a sleek, user-friendly interface.  
 🔹 **Medical Knowledge Base** – Data from **PubMed, WHO guidelines, DrugBank API**.  
